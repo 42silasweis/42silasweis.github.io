@@ -1,0 +1,7 @@
+Silas Weis independent project building the i5 system with dell motherboard
+
+Day 1 I got the motherboard with the processor and RAM already installed and found a suitable tower to house it and the hard drives, found two hard drives and put them, the montherboard, and processor in the tower.
+
+Day 2 I attempted to apply a heatsink without luck as I could not find one compatible with the motherboard and thus did not make progress.
+
+Day 3 Mr. coleman brought in a cooler that seemed to fit but I had to remove the pre-installed backplate which removed the retention arm on the CPU meaning the cpu would be lose without a heatsink mounted on top. I was able to fit the cooler on the CPU and connect the fan then booted it and installed Manjaro Linux.
